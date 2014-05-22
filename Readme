@@ -5,3 +5,9 @@ This repository is created to get used to git commands.
 
 
 Adding a new line in this file to test the git checkout command.
+
+To test git reset, adding this line.
+One more line to test reset. This is not added to staging area before reset.
+
+Testing git reset commit
+Testing the same after add the changes.
