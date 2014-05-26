@@ -11,3 +11,5 @@ One more line to test reset. This is not added to staging area before reset.
 
 Testing git reset commit
 Testing the same after add the changes.
+
+Is this a tracked file.
